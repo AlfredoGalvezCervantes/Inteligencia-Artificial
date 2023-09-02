@@ -1,0 +1,3 @@
+mensaje = "Bienvenidos al curso de Python"   # para poner variables solo se necesita poner el nombre de la variable e igual
+mensaje = 100  # python lee el ultimo valor que se guardó
+print(mensaje +200)
