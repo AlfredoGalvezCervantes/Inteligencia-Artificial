@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: cp1252 -*-
+# -*- coding 850 -*-
+# -*- coding: utf-8 -*-
+
+print("Alfredo\nJava\nPnp")    #Sirve para dar saltos de línea
+print("Lenguaje de programacion\t")    #Sirve para hacer tabaulación
