@@ -1,0 +1,5 @@
+ suma =4+6
+resta =4-6
+multiplicacion = 4*6
+division = 4/6
+print("Suma:", suma, "Resta:", resta )  #Se puede concatenar con la coma
