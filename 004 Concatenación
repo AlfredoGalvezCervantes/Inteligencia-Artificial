@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: cp1252 -*-
+# -*- coding 850 -*-
+# -*- coding: utf-8 -*-        #estas lineas con para poner los acentos
+
+primeraPalabra = "Progamación"
+segundaPalabra = "Fácil"
+nombreCanal = primeraPalabra + " " + segundaPalabra "."   # concatenar es unir 
