@@ -1,0 +1,3 @@
+#almacenamos varias variables
+smartphone = ['Samsung', 'Iphone'´, 'Huawei']
+print(smartphone[0])  #Muestra el dato almacenado en esa pocision
