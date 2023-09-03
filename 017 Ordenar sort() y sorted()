@@ -1,0 +1,5 @@
+colores = ['rojo', 'cafe', 'rosa', 'azul', 'amarillos']
+colores.sort()  #acomoda los elementos de la lista alfabeticamente
+colores.sort(reverse=True) #acomoda los elementos de la lista inverso al alfabeto
+print(colores)
+print (sorted(colores)) #solo los acomoda al momento de imprimir
