@@ -1,0 +1,2 @@
+colores = ['rojo', 'cafe', 'rosa', 'azul']
+print('El ultimo color es: '+ colores[-1])
