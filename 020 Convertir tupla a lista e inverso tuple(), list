@@ -1,0 +1,6 @@
+colores = ('rojo', 'cafe', 'rosa', 'azul', 'amarillos')
+tupla = tuple(colores) # almacenamos la lista en una tupla
+
+tupla = ['rojo', 'cafe', 'rosa', 'azul', 'amarillos']
+lista = list(tupla) #almacenar una tupla en una lista
+print (lista) 
