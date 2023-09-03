@@ -1,0 +1,4 @@
+colores = ['rojo', 'cafe', 'rosa', 'azul', 'amarillos']
+guardaLista = colores.pop(0)  #elimina un elemento de una lista, por medio de su posicion y guardarlo en una variable
+print(colores)
+print('El color eliminado es: '+ guardaLista)
