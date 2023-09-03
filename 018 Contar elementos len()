@@ -1,0 +1,3 @@
+colores = ['rojo', 'cafe', 'rosa', 'azul', 'amarillos']
+
+print (len(colores)) #cuanto los elementos de una lista
