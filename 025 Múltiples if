@@ -1,0 +1,44 @@
+#!/usr/bin/env python
+# -*- coding: cp1252 -*-
+# -*- coding 850 -*-
+# -*- coding: utf-8 -*-
+
+print('Saludos guerrero\n\n'+
+      'Items disponible:\n\n'+
+      'Espadas: \n\n' +
+      '1-Espada nivel 1: 150 monedas \n' +
+      '2-Espada nivel 2: 300 monedas\n' +
+      'Escudo\n\n'+
+      '3- nivel 1: 700 \n'+
+      '4- nivel 2: 900\n')
+comprar = [3]
+dinero = 1500
+espadal1 = 150
+espadal2 = 300
+escudol1 = 700
+escudol2 = 900
+
+if 0 in comprar or comprar == []:
+    print ("Especifica del 1 al 4: ")
+    
+if 1 in comprar:
+    dinero = dinero -espadal1
+    
+if 2 in comprar:
+    dinero = dinero -espadal2
+    
+if 3 in comprar:
+    dinero = dinero -escudol1
+    
+if 4 in comprar:
+    dinero = dinero -escudol2
+   
+else:
+    print("especifica un valor del 1 -4")
+    
+if dinero < 0:
+    print("no tienes dinero")
+    
+if comprar ==[1] or comprar == [2] or comprar ==[3] or comprar == [4]:
+    print('Te quedan: ' + str(dinero))
+      
